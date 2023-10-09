@@ -1,0 +1,10 @@
+#map {
+    height: 350px;
+    width: 400px;
+    border: solid 5px black;
+    position: relative;
+}
+#marcador{
+    border: solid 5px black;
+    position:absolute;
+}
